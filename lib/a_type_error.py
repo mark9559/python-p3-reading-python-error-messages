@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+def add_numbers(a, b):
+    return a + b

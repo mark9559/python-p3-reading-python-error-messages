@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+def check_equality(a, b):
+    assert a == b, "Values are not equal"
